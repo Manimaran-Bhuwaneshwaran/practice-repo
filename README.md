@@ -1,9 +1,9 @@
 # practice-repo
 
 ## 16-07-2026
-*DSA*
-Merge sort | https://onlinegdb.com/F_LyWLin8 
-Quick sort | https://onlinegdb.com/FcqF0DJmt
+- *DSA*
+--Merge sort | https://onlinegdb.com/F_LyWLin8 
+--Quick sort | https://onlinegdb.com/FcqF0DJmt
 
 *System design*
 Oops Example | https://onlinegdb.com/TamHsdHm4
