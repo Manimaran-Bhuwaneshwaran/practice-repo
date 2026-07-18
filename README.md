@@ -1,30 +1,55 @@
-# practice-repo
+# 🚀 Practice Repo
 
-## 16-07-2026
-- *DSA*
+A daily log of Data Structures & Algorithms (DSA) and System Design implementations.
 
-Merge sort | https://onlinegdb.com/F_LyWLin8 
-Quick sort | https://onlinegdb.com/FcqF0DJmt
+---
 
-*System design*
-Oops Example | https://onlinegdb.com/TamHsdHm4
+## 📅 July 2026 Progress
 
-------------------------------------------------------------
+### 🗓️ 16-07-2026
 
-## 17-07-2026
-*DSA*
-Sum of Two Squares (Sorted Array) | https://onlinegdb.com/TnbZvwxnq
+#### 💻 Data Structures & Algorithms
 
-*System design*
-Abstraction and Interface | https://onlinegdb.com/-U4mwkjeL
+| Topic / Problem | OnlineGDB Link |
+| --- | --- |
+| **Merge Sort** | 🔗 [View Code](https://onlinegdb.com/F_LyWLin8) |
+| **Quick Sort** | 🔗 [View Code](https://onlinegdb.com/FcqF0DJmt) |
 
-------------------------------------------------------------
+#### 🏛️ System Design & OOPs
 
-## 18-07-2026
-*DSA*
-Maximum Sum of K-Length Subarray | https://onlinegdb.com/uZwO2yJ2N
+| Topic / Problem | OnlineGDB Link |
+| --- | --- |
+| **OOPs Example** | 🔗 [View Code](https://onlinegdb.com/TamHsdHm4) |
 
-Smallest Subarray with Sum Greater Than or Equal to Target | https://onlinegdb.com/TcrcjZMvy
+---
 
-*System design*
-SOLID Design Principle - Payment Service | https://onlinegdb.com/IO8sblCAU
+### 🗓️ 17-07-2026
+
+#### 💻 Data Structures & Algorithms
+
+| Topic / Problem | OnlineGDB Link |
+| --- | --- |
+| **Sum of Two Squares (Sorted Array)** | 🔗 [View Code](https://onlinegdb.com/TnbZvwxnq) |
+
+#### 🏛️ System Design & OOPs
+
+| Topic / Problem | OnlineGDB Link |
+| --- | --- |
+| **Abstraction and Interface** | 🔗 [View Code](https://onlinegdb.com/-U4mwkjeL) |
+
+---
+
+### 🗓️ 18-07-2026
+
+#### 💻 Data Structures & Algorithms
+
+| Topic / Problem | OnlineGDB Link |
+| --- | --- |
+| **Maximum Sum of K-Length Subarray** | 🔗 [View Code](https://onlinegdb.com/uZwO2yJ2N) |
+| **Smallest Subarray with Sum $\ge$ Target** | 🔗 [View Code](https://onlinegdb.com/TcrcjZMvy) |
+
+#### 🏛️ System Design & OOPs
+
+| Topic / Problem | OnlineGDB Link |
+| --- | --- |
+| **SOLID Design Principle - Payment Service** | 🔗 [View Code](https://onlinegdb.com/IO8sblCAU) |
