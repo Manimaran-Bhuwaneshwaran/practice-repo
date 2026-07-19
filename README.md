@@ -64,6 +64,9 @@ A daily log of Data Structures & Algorithms (DSA) and System Design implementati
 
 | Topic / Problem | OnlineGDB Link |
 | --- | --- |
+| **String Manipulation** | |
+| **Valid Palindrome** | [View Code](https://leetcode.com/problems/valid-palindrome/submissions/2073571038/) |
+| **Valid Palindrome II** | [View Code](https://leetcode.com/problems/valid-palindrome-ii/submissions/2073613549/) |
 
 #### System Design & OOPs
 
