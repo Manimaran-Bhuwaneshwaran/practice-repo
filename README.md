@@ -54,3 +54,24 @@ A daily log of Data Structures & Algorithms (DSA) and System Design implementati
 | Topic / Problem | OnlineGDB Link |
 | --- | --- |
 | **SOLID Design Principle - Payment Service** | [View Code](https://onlinegdb.com/IO8sblCAU) |
+
+
+---
+
+### 18-07-2026
+
+#### Data Structures & Algorithms
+
+| Topic / Problem | OnlineGDB Link |
+| --- | --- |
+
+#### System Design & OOPs
+
+| Topic / Problem | OnlineGDB Link |
+| --- | --- |
+| **OOPS+SOLID Mini project - AI agent Management System
+Functional features
+- register as new user 
+- add LLM providers
+- choose use case
+- run the use case (simulation)** | [View Code](https://github.com/Manimaran-Bhuwaneshwaran/OOPS_SOLID.git) |
